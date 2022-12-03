@@ -1,0 +1,26 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "My solutions of AoC 2022",
+  "scripts": {
+    "new:day": "ts-node new-day.ts",
+    "run": "ts-node run.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ft-vladislav-hadzhiyski/advent-of-code-2022.git"
+  },
+  "author": "Vladislav Hadzhiyski (vladislav.hadzhiyski@ft.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ft-vladislav-hadzhiyski/advent-of-code-2022/issues"
+  },
+  "homepage": "https://github.com/ft-vladislav-hadzhiyski/advent-of-code-2022#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
